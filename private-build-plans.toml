@@ -1,0 +1,26 @@
+[buildPlans.iosevka-comfy]
+family = "Iosevka Comfy"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = true
+no-ligation = true
+
+[buildPlans.iosevka-comfy.variants.design]
+a = "single-storey-serifless"
+h = "straight"
+j = "serifed"
+l = "serifless"
+t = "standard"
+y = "straight"
+lower-delta = "flat-top"
+lower-lambda = "straight-turn"
+cyrl-capital-u = "straight-turn"
+zero = "dotted"
+paren = "flat-arc"
+brace = "curly"
+ampersand = "closed"
+dollar = "through"
+lig-ltgteq = "slanted"
+ascii-single-quote = "raised-comma"
+ascii-grave = "straight"
+question = "corner"
