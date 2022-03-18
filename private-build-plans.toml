@@ -8,8 +8,7 @@ no-ligation = true
 [buildPlans.iosevka-comfy.variants.design]
 a = "single-storey-serifless"
 h = "straight"
-j = "serifed"
-l = "flat-tailed"
+l = "serifed"
 t = "standard"
 y = "straight"
 lower-delta = "flat-top"
